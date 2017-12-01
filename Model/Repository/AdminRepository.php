@@ -9,4 +9,19 @@
 class AdminRepository extends Repository
 {
 
+    public function insertAdmin($entity){
+
+    }
+
+    public function selectAdmin($entity, $id){
+
+    }
+
+    public function updateAdmin($entity, $id){
+
+    }
+
+    public function deleteAdmin($entity){
+
+    }
 }

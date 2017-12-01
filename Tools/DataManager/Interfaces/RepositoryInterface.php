@@ -15,4 +15,5 @@ interface RepositoryInterface
     public function deleteObject($entity, $id);
 
     public function selectObect($entity);
+
 }

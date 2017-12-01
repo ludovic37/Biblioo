@@ -8,5 +8,19 @@
 
 class CategoryRepository extends Repository
 {
+    public function insertCategory($entity){
 
+    }
+
+    public function selectCategory($entity, $id){
+
+    }
+
+    public function updateCategory($entity, $id){
+
+    }
+
+    public function deleteCategory($entity){
+
+    }
 }
